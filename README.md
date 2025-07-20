@@ -8,8 +8,8 @@ The House Price Prediction and Recommendation System addresses the real-world ch
 3) Visualizations: Graphs and charts to explore trends and features.
 4) Recommendations: Filters properties based on budget, location, and user needs.
 ## Benefits
-Accuracy: Provides accurate estimates of house prices, aiding users in making informed decisions.
-Convenience: Simplifies the house-hunting process by suggesting relevant properties based on user preferences.
-Insights: Offers valuable insights into the neighborhood and surrounding areas, enhancing user understanding.
+*Accuracy: Provides accurate estimates of house prices, aiding users in making informed decisions.
+*Convenience: Simplifies the house-hunting process by suggesting relevant properties based on user preferences.
+*Insights: Offers valuable insights into the neighborhood and surrounding areas, enhancing user understanding.
 
 
